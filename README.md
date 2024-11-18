@@ -2,7 +2,7 @@
 Link to GitHub repository: [https://github.com/adityanemiwal/CS781-Project](https://github.com/adityanemiwal/CS781-Project)
 
 ### Running Instructions
-Setup [https://tempest-synthesis.org/shieldedrl/docker/index.html](Tempest_in_Action) using Docker.
+Setup [Tempest_in_Action](https://tempest-synthesis.org/shieldedrl/docker/index.html) using Docker.
 
 Place the [jupyter notebook](shieldSynthesis.ipynb) from the repository in the /opt/notebooks directory in the docker container.<br>
 Place the [Playground.py](Playground.py) from the repository at `/opt/environments/notebooks/Minigrid/minigrid/envs/Playground.py` in the container.

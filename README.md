@@ -15,7 +15,7 @@ The second cell in [notebook](shieldSynthesis.ipynb) (under the heading "Load Mi
 `n`, `k` can be updated as desirable. Notes:
 - Keep `k` as 1 or 2. `k=0` doesn't add any new information, and `k>=3` might take too much time to render and potentially crash the kernel
 - For the given playground, (`n=5`,`k=2`) is tested. But for larger grids, or larger `n` (>10), the notebook may take longer
-- Shield are visualised for specific cases for
+- Shield are visualised for specific cases:
   - `k=0`
   - `k=1` and `n>=4`
   - `k=2` and `n>=5`

@@ -44,5 +44,10 @@ The above steps go on `len(observe_sequence)` times
 
 For information regarding what a state represents, please check the report.
 
+# Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND)
+
+This code bears a license to permit others to **_share_** (mirror) your mod content, providing that they credit you and don't use your work for commercial purposes.
+
+You can view additional details on [this page](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
